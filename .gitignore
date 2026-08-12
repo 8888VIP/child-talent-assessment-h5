@@ -1,0 +1,5 @@
+artifacts/
+verification/
+share-package/
+*.zip
+rollback*.ps1
